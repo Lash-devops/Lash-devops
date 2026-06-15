@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./avatar.png" width="120" height="120" alt="Lash" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/Lash-devops/Lash-devops/main/avatar.png" width="120" height="120" alt="Lash" style="border-radius:50%" />
 
   # Привет! Я Lash 👋
 
