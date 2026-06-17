@@ -43,6 +43,7 @@
 | 🪪 Сайт-визитка | 🟢 Лёгкий | [открыть](https://lash-devops.github.io/portfolio/projects/business-card/) |
 | ☕ Лендинг кофейни | 🟡 Средний | [открыть](https://lash-devops.github.io/portfolio/projects/coffee-shop/) |
 | 🛍️ Магазин одежды | 🔴 Сложный | [открыть](https://lash-devops.github.io/portfolio/projects/clothing-store/) |
+| 🚀 ОРБИТА — космотуризм | 🟣 Эксперт | [открыть](https://lash-devops.github.io/portfolio/projects/space-travel/) |
 
 ➡️ Исходный код: [**Lash-devops/portfolio**](https://github.com/Lash-devops/portfolio)
 
